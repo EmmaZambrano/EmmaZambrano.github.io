@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Académico
-permalink: /académico/
+permalink: /Académico/
 ---
 
 Termine la primaria en la Escuela "Blanca Goetta de Ordoñez".
