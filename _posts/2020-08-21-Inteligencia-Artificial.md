@@ -12,14 +12,14 @@ La inteligencia artificial ha tenido críticas, las cuales se basan en la capaci
 
    Importancia de la inteligencia artificial
  
--Automatiza el aprendizaje y descubrimiento repetitivos a traves de datos.
+-Automatiza el aprendizaje y descubrimiento repetitivos a través de datos.
 
 -Agrega inteligencia a productos existentes.
 
 -Se adapta a través de algoritmos de aprendizaje progresivo para permitir que 
  los datos realicen la programación.
  
--Analiza más datos y datos más profundos emplenado redes neuronales.
+-Analiza más datos y datos más profundos empleando redes neuronales.
 
 -Logra una increíble precisión a través de redes neuronales profundas.
 
