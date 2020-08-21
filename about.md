@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /Biografía/
+permalink: /about/
 ---
 
 Mi nombre es Emma Zambrano Espinal, nací en Guayaquil-Ecuador, el 26 de julio de 2001. Soy estudiante de la carrera de software en la Universidad de Guayaquil.
