@@ -25,4 +25,4 @@ La inteligencia artificial ha tenido críticas, las cuales se basan en la capaci
 
 -Saca el mayor provecho de los datos.
 
-Para más información visitar el siguiente link:permalink: /[https://www.sas.com/es_mx/insights/analytics/what-is-artificial-intelligence.html](https://www.sas.com/es_mx/insights/analytics/what-is-artificial-intelligence.html)/
+Para más información visitar el siguiente link: /[https://www.sas.com/es_mx/insights/analytics/what-is-artificial-intelligence.html](https://www.sas.com/es_mx/insights/analytics/what-is-artificial-intelligence.html)/
